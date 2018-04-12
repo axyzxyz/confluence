@@ -20,7 +20,8 @@ atlassian-universal-plugin-manager-plugin-2.22.jar
 [参考博客](https://www.cnblogs.com/kevingrace/p/7607442.html)
 
 ### 迁移 or 还原
-
+迁移还原时请选择第三个选项（从备份点还原），示意图如下：
+![alt 还原点示意图](https://github.com/a001189/confluence/blob/master/907596-20170928192217606-575327038.jpg)
 
 安装完成后，直接选择旧版本恢复，并导入备份文件zip压缩包，等待文件建立索引，数据库写入即可。
 ```bash
