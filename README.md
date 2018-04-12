@@ -27,4 +27,4 @@ atlassian-universal-plugin-manager-plugin-2.22.jar
 cd /var/atlassian/application-data/confluence/backups
 sz backup*.zip
 ```
-也可选择直接将文件，直接放入新服务提示的目录，即可。实测未成功。
+也可选择直接将文件，直接放入新服务提示的目录，即可。实测未成功，因此选择下载原备份文件，然后上传的方式，进行还原
